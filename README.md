@@ -13,7 +13,7 @@ If you want to try my program, you can [download](https://github.com/vastXgithub
 
 ---
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # Тестовое задание в компанию 66bit
 ## Поставленная задача:
