@@ -2,7 +2,7 @@
 using System.IO;
 using System.Reflection;
 
-namespace DLLdisassembly
+namespace DllDisassembly
 {
     internal class DisassemblyClass
     {
